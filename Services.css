@@ -1,0 +1,19 @@
+body{
+background-image: url(Workshop.jpg);
+background-size: 100% ;
+}
+
+.contentServices {
+    text-align: center;
+    
+    border: 5px;
+    
+}
+.text-border {
+    border: 5px solid rgb(202, 149, 36); 
+    padding: 20px; 
+    width: 700px;
+    margin: 20px auto; 
+    color: black;
+    background-color: lightsalmon;
+}

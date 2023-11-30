@@ -1,0 +1,13 @@
+- https://youtu.be/Yf5d_Zx3AaI?si=PVZTPqN751eq08pF - this helped me to do the loader image at the website start
+
+- I modified exercises from dates and make the todays date
+ 
+- i checked often on chat gpt to check if my code was okay and for some tips
+
+- I rewrited the navigation menu from my old webpage 
+
+- http://zs7.walbrzych.pl/HTML-CSS-JS/js.html 
+
+- https://www.medianauka.pl/data-czas-javascript
+
+- And PDF File that i will link to My zip file with website
